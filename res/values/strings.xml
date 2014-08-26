@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">rateit</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_data_data_chchnightlife">/data/data/chchnightlife</string>
+    <string name="intro">Rate the place according to how busy it is using the below scheme</string>
+    <string name="footer">Developed by Shravan Shah at University of Canterbury, Christchurch, NZ</string>
+    <string name="title">rateit</string>
+    <string name="quiet">Quiet</string>
+    <string name="average">Average</string>
+    <string name="busy">Busy</string>
+     <string name="go">go</string>
+    
+
+</resources>
